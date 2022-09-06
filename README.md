@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-目前学习：https://chinese.freecodecamp.org/PleaseLetMe
+目前学习：
+
+https://chinese.freecodecamp.org/PleaseLetMe
 
 持续更新：
 
