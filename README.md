@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 目前学习：https://chinese.freecodecamp.org/PleaseLetMe
 
 持续更新：https://github.com/yinhongGITHUB/myLodash
+         https://github.com/yinhongGITHUB/ReadingnNotes
