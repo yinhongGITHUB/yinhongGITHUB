@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- - 持续更新：
+ - 学习笔记（持续更新中）：
    - [https://github.com/yinhongGITHUB/ReadingNotes/blob/main/2025%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E9%A1%B9%E7%9B%AE%E7%BB%8F%E9%AA%8C%E7%AC%94%E8%AE%B0.md](https://github.com/yinhongGITHUB/ReadingNotes)
  - 玩一下桌面应用开发（持续更新中）
    - https://github.com/yinhongGITHUB/my-mini-electron-project
